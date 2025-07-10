@@ -2,7 +2,6 @@
   "name": "fullstack-next",
   "private": true,
   "scripts": {
-    "postinstall": "prisma generate",
     "dev": "next dev",
     "docker": "docker-compose up -d",
     "build": "next build",
