@@ -1,4 +1,4 @@
-
+export PATH="$PATH:/usr/local/bin"
 
 npx lint-staged
 npx lint-staged
