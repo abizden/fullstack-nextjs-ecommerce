@@ -16,7 +16,7 @@
   "dependencies": {
     "@next-auth/prisma-adapter": "^0.5.2-next.19",
     "@prisma/client": "^3.5.0",
-    "@sentry/nextjs": "^6.15.0",
+    "@sentry/nextjs": "^7.91.0",
     "@stripe/react-stripe-js": "^1.6.0",
     "@stripe/stripe-js": "^1.21.1",
     "@tailwindcss/forms": "^0.3.4",
