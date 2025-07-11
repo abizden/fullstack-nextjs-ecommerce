@@ -30,7 +30,7 @@ const SentryExamplePage = () => {
         Sentry.captureException(error);
         alert('Hata oluştu!');
       } finally {
-        span.end();
+        if (span) span.end();
       }
     });
   };
